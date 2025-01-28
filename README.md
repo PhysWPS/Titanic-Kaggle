@@ -1,0 +1,1 @@
+Este projeto se baseia no [DESAFIO DO TITANIC](https://www.kaggle.com/competitions/titanic) posto no Kaggle.
